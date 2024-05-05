@@ -1,3 +1,5 @@
+
+![RainShader](https://github.com/radishface/Rain-Shader/assets/1553981/82a1e0ad-8baa-4b77-b826-8b5ece546e46)
 # Summary
 This repository contains a simple scene with a wet surface shader authored in Shader Graph.
 # Setup
