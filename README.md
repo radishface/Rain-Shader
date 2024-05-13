@@ -1,8 +1,7 @@
 ![RainShader](https://github.com/radishface/Rain-Shader/assets/1553981/d12e0214-c976-4c79-8772-8d60a8363930)
 
 # Summary
-This repository contains a scene with a wet surface shader authored in Shader Graph.
-For more information, please refer to the `CO-TA-KristijonasJalnionis.pdf` file in the root of the repository.
+This repository contains a scene with a wet surface shader authored in Shader Graph. It also contains a simple rain particle effect authored in VFX Graph. The project uses URP.
 
 # Setup
 1. Clone the project;
